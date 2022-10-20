@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    text-align: center;
+}
+
+#dojo{
+    margin: 50px;
+}
+
+#dojotable{
+    margin: 30px;
+}
+
+#dojolist{
+    border: 2px solid black;
+    width: 300px;
+}
+
+ul{
+    list-style-type: none;
+}
